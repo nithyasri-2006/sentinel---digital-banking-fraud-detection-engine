@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel - Digital Banking Fraud Detection Engine",
+  "description": "A comprehensive simulation and monitoring platform for digital banking fraud. It features real-time transaction generation, rule-based anomaly detection, and advanced AI-driven risk analysis using Gemini.",
+  "requestFramePermissions": []
+}
